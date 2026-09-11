@@ -1,0 +1,8 @@
+{
+  "name": "MEDHA - Cognitive Engine & Games",
+  "description": "Cognitive assessment and training platform for elderly and dementia care with telemetry analysis, adaptive games, and ML Random Tree classifier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
